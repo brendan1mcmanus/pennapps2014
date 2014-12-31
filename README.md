@@ -1,5 +1,3 @@
-pennapps2014
-============
 Floon
 ============
 A comprehensive stock market app with social sentiment index (from Twitter), threshold notifications, and a newsfeed.
